@@ -12543,23 +12543,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\minddotnet46\\.nuget\\packages\\": {},
+    "C:\\Users\\minddotnet113\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minddotnet46\\source\\repos\\SportStoreApi\\SportStoreApi\\SportStoreApi.csproj",
+      "projectUniqueName": "C:\\Users\\minddotnet113\\ComprehensiveProject\\SportStoreApi\\SportStoreApi\\SportStoreApi.csproj",
       "projectName": "SportStoreApi",
-      "projectPath": "C:\\Users\\minddotnet46\\source\\repos\\SportStoreApi\\SportStoreApi\\SportStoreApi.csproj",
-      "packagesPath": "C:\\Users\\minddotnet46\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minddotnet46\\source\\repos\\SportStoreApi\\SportStoreApi\\obj\\",
+      "projectPath": "C:\\Users\\minddotnet113\\ComprehensiveProject\\SportStoreApi\\SportStoreApi\\SportStoreApi.csproj",
+      "packagesPath": "C:\\Users\\minddotnet113\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\minddotnet113\\ComprehensiveProject\\SportStoreApi\\SportStoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\minddotnet46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\minddotnet113\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
